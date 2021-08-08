@@ -1,0 +1,6 @@
+name: VoidTax
+version: ${project.version}
+main: tech.needvoid.voidtax.VoidTaxPlugin
+depend: [ Vault ]
+authors: [ NeedVoid ]
+description: A plugin designed to torture the rich
