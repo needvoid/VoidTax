@@ -1,6 +1,6 @@
-package tech.needvoid.voidtax.VoidTax.command;
+package tech.needvoid.voidtax.voidtax.command;
 
-import tech.needvoid.voidtax.VoidTax.command.subcommands.ReloadCommand;
+import tech.needvoid.voidtax.voidtax.command.subcommands.ReloadCommand;
 import tech.needvoid.voidtax.VoidTaxPlugin;
 import tech.needvoid.voidtax.utils.command.AdvancedCommand;
 

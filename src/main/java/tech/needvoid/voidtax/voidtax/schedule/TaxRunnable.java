@@ -1,9 +1,8 @@
-package tech.needvoid.voidtax.VoidTax.schedule;
+package tech.needvoid.voidtax.voidtax.schedule;
 
 import org.bukkit.Bukkit;
-import org.bukkit.entity.Player;
 import org.bukkit.scheduler.BukkitRunnable;
-import tech.needvoid.voidtax.VoidTax.TaxModule;
+import tech.needvoid.voidtax.voidtax.TaxModule;
 import tech.needvoid.voidtax.VoidTaxPlugin;
 import tech.needvoid.voidtax.utils.CC;
 

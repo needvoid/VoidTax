@@ -1,10 +1,9 @@
 package tech.needvoid.voidtax;
 
 import org.bukkit.plugin.java.JavaPlugin;
-import tech.needvoid.voidtax.VoidTax.command.VoidTaxCommand;
-import tech.needvoid.voidtax.VoidTax.command.subcommands.ReloadCommand;
-import tech.needvoid.voidtax.VoidTax.command.TaxCommand;
-import tech.needvoid.voidtax.VoidTax.schedule.TaxRunnable;
+import tech.needvoid.voidtax.voidtax.command.VoidTaxCommand;
+import tech.needvoid.voidtax.voidtax.command.TaxCommand;
+import tech.needvoid.voidtax.voidtax.schedule.TaxRunnable;
 import tech.needvoid.voidtax.utils.CC;
 import tech.needvoid.voidtax.utils.ConfigFile;
 import tech.needvoid.voidtax.utils.command.CommandHandler;

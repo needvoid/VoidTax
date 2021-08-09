@@ -1,4 +1,4 @@
-package tech.needvoid.voidtax.VoidTax;
+package tech.needvoid.voidtax.voidtax;
 
 import net.milkbowl.vault.economy.Economy;
 import org.bukkit.Bukkit;

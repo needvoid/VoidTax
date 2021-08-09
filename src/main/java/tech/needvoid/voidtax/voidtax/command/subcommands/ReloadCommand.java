@@ -1,4 +1,4 @@
-package tech.needvoid.voidtax.VoidTax.command.subcommands;
+package tech.needvoid.voidtax.voidtax.command.subcommands;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;

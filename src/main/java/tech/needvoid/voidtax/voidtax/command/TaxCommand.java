@@ -1,8 +1,8 @@
-package tech.needvoid.voidtax.VoidTax.command;
+package tech.needvoid.voidtax.voidtax.command;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
-import tech.needvoid.voidtax.VoidTax.TaxModule;
+import tech.needvoid.voidtax.voidtax.TaxModule;
 import tech.needvoid.voidtax.VoidTaxPlugin;
 import tech.needvoid.voidtax.utils.CC;
 import tech.needvoid.voidtax.utils.command.SimpleCommand;
